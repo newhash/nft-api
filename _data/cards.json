@@ -1,0 +1,338 @@
+[
+  {
+    "_id": 1,
+    "pool": {
+        "name": "DCX",
+        "points": 50
+    },
+    "external_url": "https://decex.finance/nft/api/v1/cards/1.json",
+    "image": "https://firebasestorage.googleapis.com/v0/b/decex-finance.appspot.com/o/decex_messi.mp4?alt=media&token=974acd39-8e8c-49f0-b811-3559613a96d0",
+    "name": "Messi",
+    "description": "The Meme Holy Grail. To show our appreciation to all humble farmers",
+    "attributes": [
+        {
+            "trait_type": "Set",
+            "value": "Genesis"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Artist",
+            "value": "RektMe Rev"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Tag",
+            "value": "Pineapple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "birthday",
+            "value": 1598450400
+        },
+        {
+            "trait_type": "Max Supply",
+            "value": "10000"
+        }
+    ]
+  },
+  {
+    "_id": 2,
+    "pool": {
+        "name": "DCX",
+        "points": 25
+    },
+    "external_url": "https://decex.finance/nft/api/v1/cards/2.json",
+    "image": "https://firebasestorage.googleapis.com/v0/b/decex-finance.appspot.com/o/decex_diaochan.jpg?alt=media&token=d3ac6210-ccbc-4efc-8de6-16655b6cdbad",
+    "name": "Diaochan",
+    "description": "The Meme Holy Grail. To show our appreciation to all humble farmers",
+    "attributes": [
+        {
+            "trait_type": "Set",
+            "value": "Genesis"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Artist",
+            "value": "RektMe Rev"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Tag",
+            "value": "Pineapple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "birthday",
+            "value": 1598450400
+        },
+        {
+            "trait_type": "Max Supply",
+            "value": "10000"
+        }
+    ]
+  },
+  {
+    "_id": 3,
+    "pool": {
+        "name": "DCX",
+        "points": 300
+    },
+    "external_url": "https://decex.finance/nft/api/v1/cards/3.json",
+    "image": "https://firebasestorage.googleapis.com/v0/b/decex-finance.appspot.com/o/decex_elon_musk_limited.mp4?alt=media&token=873d57b2-d3df-4760-acb8-8b93ce6ac333",
+    "name": "Elon Musk Limited",
+    "description": "The Meme Holy Grail. To show our appreciation to all humble farmers",
+    "attributes": [
+        {
+            "trait_type": "Set",
+            "value": "Genesis"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Artist",
+            "value": "RektMe Rev"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Tag",
+            "value": "Pineapple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "birthday",
+            "value": 1598450400
+        },
+        {
+            "trait_type": "Max Supply",
+            "value": "10000"
+        }
+    ]
+  },
+  {
+    "_id": 4,
+    "pool": {
+        "name": "LP",
+        "points": 25
+    },
+    "external_url": "https://decex.finance/nft/api/v1/cards/4.json",
+    "image": "https://firebasestorage.googleapis.com/v0/b/decex-finance.appspot.com/o/decex_andre_cronje.mp4?alt=media&token=8f5333b0-256a-4c05-a7bd-c8e2c98d8617",
+    "name": "Andre Cronje",
+    "description": "The Meme Holy Grail. To show our appreciation to all humble farmers",
+    "attributes": [
+        {
+            "trait_type": "Set",
+            "value": "Genesis"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Artist",
+            "value": "RektMe Rev"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Tag",
+            "value": "Pineapple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "birthday",
+            "value": 1598450400
+        },
+        {
+            "trait_type": "Max Supply",
+            "value": "10000"
+        }
+    ]
+  },
+  {
+    "_id": 5,
+    "pool": {
+        "name": "LP",
+        "points": 25
+    },
+    "external_url": "https://decex.finance/nft/api/v1/cards/5.json",
+    "image": "https://firebasestorage.googleapis.com/v0/b/decex-finance.appspot.com/o/decex_hayden_adams.mp4?alt=media&token=6c7e48e1-4256-461d-83f4-12e105ab5163",
+    "name": "Hayden Adams",
+    "description": "The Meme Holy Grail. To show our appreciation to all humble farmers",
+    "attributes": [
+        {
+            "trait_type": "Set",
+            "value": "Genesis"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Artist",
+            "value": "RektMe Rev"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Tag",
+            "value": "Pineapple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "birthday",
+            "value": 1598450400
+        },
+        {
+            "trait_type": "Max Supply",
+            "value": "10000"
+        }
+    ]
+  },
+  {
+    "_id": 6,
+    "pool": {
+        "name": "LP",
+        "points": 300
+    },
+    "external_url": "https://decex.finance/nft/api/v1/cards/6.json",
+    "image": "https://firebasestorage.googleapis.com/v0/b/decex-finance.appspot.com/o/decex_elon_musk_commemoration.mp4?alt=media&token=6de3fc12-8c03-41f8-8219-0b22c6ab050c",
+    "name": "Elon Musk Commemoration",
+    "description": "The Meme Holy Grail. To show our appreciation to all humble farmers",
+    "attributes": [
+        {
+            "trait_type": "Set",
+            "value": "Genesis"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Artist",
+            "value": "RektMe Rev"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Tag",
+            "value": "Pineapple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "birthday",
+            "value": 1598450400
+        },
+        {
+            "trait_type": "Max Supply",
+            "value": "10000"
+        }
+    ]
+  },
+  {
+    "_id": 7,
+    "pool": {
+        "name": "LP",
+        "points": 50
+    },
+    "external_url": "https://decex.finance/nft/api/v1/cards/7.json",
+    "image": "https://firebasestorage.googleapis.com/v0/b/decex-finance.appspot.com/o/decex_genesis.mp4?alt=media&token=0047a844-cdfd-4f9d-adb8-61641e741439",
+    "name": "Genesis",
+    "description": "The Meme Holy Grail. To show our appreciation to all humble farmers",
+    "attributes": [
+        {
+            "trait_type": "Set",
+            "value": "Genesis"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Artist",
+            "value": "RektMe Rev"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Tag",
+            "value": "Pineapple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "birthday",
+            "value": 1598450400
+        },
+        {
+            "trait_type": "Max Supply",
+            "value": "10000"
+        }
+    ]
+  },
+  {
+    "_id": 8,
+    "pool": {
+        "name": "",
+        "points": 1
+    },
+    "external_url": "https://decex.finance/nft/api/v1/cards/8.json",
+    "image": "https://firebasestorage.googleapis.com/v0/b/decex-finance.appspot.com/o/decex_elon_musk_special.mp4?alt=media&token=af494631-e5e5-4e94-a606-e98cd7455642",
+    "name": "Elon Musk Special",
+    "description": "The Meme Holy Grail. To show our appreciation to all humble farmers",
+    "attributes": [
+        {
+            "trait_type": "Set",
+            "value": "Genesis"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Artist",
+            "value": "RektMe Rev"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Relic"
+        },
+        {
+            "trait_type": "Tag",
+            "value": "Pineapple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "birthday",
+            "value": 1598450400
+        },
+        {
+            "trait_type": "Max Supply",
+            "value": "10000"
+        }
+    ]
+  }
+]
